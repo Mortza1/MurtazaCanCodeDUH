@@ -4,6 +4,8 @@ Hey i am MURTAZA MUSTAFA, i am currently 18 years old and in my first year of my
  
 - 🌱 I’m currently learning Android Development just for fun and it has been going great. Working on some amazing personal projects :)
 
+- currently learning about blockchain technology and soon implementing them in my personal projects.
+
 - 📫 You can reach me by email : murtaza.0903@gmail.com
                       or instagram : @mortza_here :)
 
